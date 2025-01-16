@@ -1,2 +1,2 @@
-# cybercraftalliance..github.io
+# cybercraftalliance.github.io
 CyberCraft Alliance website
